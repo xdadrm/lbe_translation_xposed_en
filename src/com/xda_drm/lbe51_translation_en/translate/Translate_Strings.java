@@ -1535,8 +1535,8 @@ try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Action_Rej
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_SecurityPrompt_Caption","Security Warning"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_SecurityPrompt_Title","%1$s is trying to %2$s"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_SecurityPrompt_Remember","Remember my choice"); } catch(RuntimeException e) { };
-try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_SecurityPrompt_Accept","Allowed (%d)"); } catch(RuntimeException e) { };
-try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_SecurityPrompt_Reject","Rejected (%d)"); } catch(RuntimeException e) { };
+try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_SecurityPrompt_Accept","Allow (%d)"); } catch(RuntimeException e) { };
+try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_SecurityPrompt_Reject","Reject (%d)"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Perm","Permission manager"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Trust_NoConfig","Trusted software , you can configure permissions"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Notif","Active defense failed to load"); } catch(RuntimeException e) { };
