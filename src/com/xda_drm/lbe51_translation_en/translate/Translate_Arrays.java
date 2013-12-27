@@ -1,22 +1,22 @@
 package com.xda_drm.lbe51_translation_en.translate;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.util.logging.Handler;
+//import java.io.BufferedReader;
+//import java.io.FileReader;
+//import java.util.logging.Handler;
 
-import com.xda_drm.lbe51_translation_en.R;
+//import com.xda_drm.lbe51_translation_en.R;
 
-import android.content.res.Resources;
+//import android.content.res.Resources;
 import android.content.res.XModuleResources;
-import android.content.res.XResources;
+//import android.content.res.XResources;
 import de.robv.android.xposed.IXposedHookInitPackageResources;
 import de.robv.android.xposed.IXposedHookZygoteInit;
-import de.robv.android.xposed.XposedBridge;
+//import de.robv.android.xposed.XposedBridge;
 import de.robv.android.xposed.callbacks.XC_InitPackageResources.InitPackageResourcesParam;
 
-import de.robv.android.xposed.IXposedHookLoadPackage;
-import de.robv.android.xposed.XposedBridge;
-import de.robv.android.xposed.callbacks.XC_LoadPackage.LoadPackageParam;
+//import de.robv.android.xposed.IXposedHookLoadPackage;
+//import de.robv.android.xposed.XposedBridge;
+//import de.robv.android.xposed.callbacks.XC_LoadPackage.LoadPackageParam;
 
 
 public class Translate_Arrays implements IXposedHookZygoteInit, IXposedHookInitPackageResources{
