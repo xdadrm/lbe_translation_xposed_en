@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.xda_drm.lbe51_translation_en"
-    android:versionCode="1016"
-    android:versionName="1.016" >
+    android:versionCode="1017"
+    android:versionName="1.017" >
 
     <uses-sdk
         android:minSdkVersion="8"

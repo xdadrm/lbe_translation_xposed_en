@@ -1031,11 +1031,11 @@ try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Net_Fir
 try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_CMCC","China Mobile"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_UNICOM","China Unicom"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_TELECOM","China Telecom"); } catch(RuntimeException e) { };
-try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_CMCC_Brand_Global","GSM"); } catch(RuntimeException e) { };
+try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_CMCC_Brand_Global","GoTone"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_CMCC_Brand_MZone","M-Zone"); } catch(RuntimeException e) { };
-try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_CMCC_Brand_ShenZhou","Shengzhouxing"); } catch(RuntimeException e) { };
+try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_CMCC_Brand_ShenZhou","Easyown"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_UNICOM_Brand_2G","Unicom 2G"); } catch(RuntimeException e) { };
-try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_UNICOM_Brand_3G","Unicom fertile 3G"); } catch(RuntimeException e) { };
+try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_UNICOM_Brand_3G","Unicom Wo 3G"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "Traffic_Carrier_TELECOM_Brand","China Telecom"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "Nft_Mgr_Title","Notification bar"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "Nft_Mgr_Title_Hint","Easy to advertising, clean notification bar"); } catch(RuntimeException e) { };
@@ -1560,10 +1560,10 @@ try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Conflict_V
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Conflict_Verify_Negative","Not closed"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Reboot","Restart the phone"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Reboot_Failure","If the phone does not restart, restart your phone your own"); } catch(RuntimeException e) { };
-try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Defending","Active defense is protecting the"); } catch(RuntimeException e) { };
+try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Defending","Active defense is protecting this device"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_NOT_Defending","Active defense does not start"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Root_Mode","ROOT Activation"); } catch(RuntimeException e) { };
-try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Root_Mode_Desc","By ROOT authorization to start the active defense services"); } catch(RuntimeException e) { };
+try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Root_Mode_Desc","ROOT authorization to start the active defense services"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Root_Free_Mode","OneClick Root"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_Root_Free_Mode_Desc","ROOT to start active defense services"); } catch(RuntimeException e) { };
 try { resparam.res.setReplacement("com.lbe.security", "string", "HIPS_MIUI_Mode","MIUI Activation"); } catch(RuntimeException e) { };
